@@ -1,0 +1,10 @@
+C:\Users\hate.401891\source\repos\Quiz06\obj\Debug\Quiz06.csproj.AssemblyReference.cache
+C:\Users\hate.401891\source\repos\Quiz06\obj\Debug\Quiz06.Form1.resources
+C:\Users\hate.401891\source\repos\Quiz06\obj\Debug\Quiz06.Properties.Resources.resources
+C:\Users\hate.401891\source\repos\Quiz06\obj\Debug\Quiz06.csproj.GenerateResource.cache
+C:\Users\hate.401891\source\repos\Quiz06\obj\Debug\Quiz06.csproj.CoreCompileInputs.cache
+C:\Users\hate.401891\source\repos\Quiz06\bin\Debug\Quiz06.exe.config
+C:\Users\hate.401891\source\repos\Quiz06\bin\Debug\Quiz06.exe
+C:\Users\hate.401891\source\repos\Quiz06\bin\Debug\Quiz06.pdb
+C:\Users\hate.401891\source\repos\Quiz06\obj\Debug\Quiz06.exe
+C:\Users\hate.401891\source\repos\Quiz06\obj\Debug\Quiz06.pdb

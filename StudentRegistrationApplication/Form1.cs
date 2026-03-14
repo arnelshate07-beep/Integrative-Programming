@@ -54,9 +54,8 @@ namespace StudentRegistrationApplication
             }
             yearBox.SelectedIndex = 0;
 
-            courseBox.Items.Add("-Course-");
-            string[] courses = { "BS Computer Science", "BS Information Technology", "BS Computer Engineering",
-                "BS Education", "Hospitality Management", "Tourism Management"};
+            courseBox.Items.Add("-Program-");
+            string[] courses = { "BS Computer Science", "BS Information Technology", "BS Information Systems ", "BS Computer Engineering" };
 
             foreach (string course in courses)
             {

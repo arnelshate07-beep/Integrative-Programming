@@ -1,0 +1,10 @@
+C:\Users\arnel\Downloads\Integrative-Programming-main\Integrative-Programming-main\LastName_StudentGradeAnalyzer\bin\Debug\LastName_StudentGradeAnalyzer.exe.config
+C:\Users\arnel\Downloads\Integrative-Programming-main\Integrative-Programming-main\LastName_StudentGradeAnalyzer\bin\Debug\LastName_StudentGradeAnalyzer.exe
+C:\Users\arnel\Downloads\Integrative-Programming-main\Integrative-Programming-main\LastName_StudentGradeAnalyzer\bin\Debug\LastName_StudentGradeAnalyzer.pdb
+C:\Users\arnel\Downloads\Integrative-Programming-main\Integrative-Programming-main\LastName_StudentGradeAnalyzer\obj\Debug\LastName_StudentGradeAnalyzer.csproj.AssemblyReference.cache
+C:\Users\arnel\Downloads\Integrative-Programming-main\Integrative-Programming-main\LastName_StudentGradeAnalyzer\obj\Debug\LastName_StudentGradeAnalyzer.Form1.resources
+C:\Users\arnel\Downloads\Integrative-Programming-main\Integrative-Programming-main\LastName_StudentGradeAnalyzer\obj\Debug\LastName_StudentGradeAnalyzer.Properties.Resources.resources
+C:\Users\arnel\Downloads\Integrative-Programming-main\Integrative-Programming-main\LastName_StudentGradeAnalyzer\obj\Debug\LastName_StudentGradeAnalyzer.csproj.GenerateResource.cache
+C:\Users\arnel\Downloads\Integrative-Programming-main\Integrative-Programming-main\LastName_StudentGradeAnalyzer\obj\Debug\LastName_StudentGradeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\arnel\Downloads\Integrative-Programming-main\Integrative-Programming-main\LastName_StudentGradeAnalyzer\obj\Debug\LastName_StudentGradeAnalyzer.exe
+C:\Users\arnel\Downloads\Integrative-Programming-main\Integrative-Programming-main\LastName_StudentGradeAnalyzer\obj\Debug\LastName_StudentGradeAnalyzer.pdb

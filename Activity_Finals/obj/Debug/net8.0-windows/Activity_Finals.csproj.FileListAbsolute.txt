@@ -1,0 +1,16 @@
+C:\Users\hate.401891\source\repos\Activity_Finals\obj\Debug\net8.0-windows\Activity_Finals.Form1.resources
+C:\Users\hate.401891\source\repos\Activity_Finals\obj\Debug\net8.0-windows\Activity_Finals.csproj.GenerateResource.cache
+C:\Users\hate.401891\source\repos\Activity_Finals\obj\Debug\net8.0-windows\Activity_Finals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hate.401891\source\repos\Activity_Finals\obj\Debug\net8.0-windows\Activity_Finals.AssemblyInfoInputs.cache
+C:\Users\hate.401891\source\repos\Activity_Finals\obj\Debug\net8.0-windows\Activity_Finals.AssemblyInfo.cs
+C:\Users\hate.401891\source\repos\Activity_Finals\obj\Debug\net8.0-windows\Activity_Finals.csproj.CoreCompileInputs.cache
+C:\Users\hate.401891\source\repos\Activity_Finals\bin\Debug\net8.0-windows\Activity_Finals.exe
+C:\Users\hate.401891\source\repos\Activity_Finals\bin\Debug\net8.0-windows\Activity_Finals.deps.json
+C:\Users\hate.401891\source\repos\Activity_Finals\bin\Debug\net8.0-windows\Activity_Finals.runtimeconfig.json
+C:\Users\hate.401891\source\repos\Activity_Finals\bin\Debug\net8.0-windows\Activity_Finals.dll
+C:\Users\hate.401891\source\repos\Activity_Finals\bin\Debug\net8.0-windows\Activity_Finals.pdb
+C:\Users\hate.401891\source\repos\Activity_Finals\obj\Debug\net8.0-windows\Activity_Finals.dll
+C:\Users\hate.401891\source\repos\Activity_Finals\obj\Debug\net8.0-windows\refint\Activity_Finals.dll
+C:\Users\hate.401891\source\repos\Activity_Finals\obj\Debug\net8.0-windows\Activity_Finals.pdb
+C:\Users\hate.401891\source\repos\Activity_Finals\obj\Debug\net8.0-windows\Activity_Finals.genruntimeconfig.cache
+C:\Users\hate.401891\source\repos\Activity_Finals\obj\Debug\net8.0-windows\ref\Activity_Finals.dll

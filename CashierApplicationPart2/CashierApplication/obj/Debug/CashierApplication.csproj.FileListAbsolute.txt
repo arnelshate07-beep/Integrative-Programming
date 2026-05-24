@@ -1,0 +1,21 @@
+C:\Users\hate.401891\Source\Repos\CashierApplication-Sulit-\CashierApplication\bin\Debug\CashierApplication.exe.config
+C:\Users\hate.401891\Source\Repos\CashierApplication-Sulit-\CashierApplication\bin\Debug\CashierApplication.exe
+C:\Users\hate.401891\Source\Repos\CashierApplication-Sulit-\CashierApplication\bin\Debug\CashierApplication.pdb
+C:\Users\hate.401891\Source\Repos\CashierApplication-Sulit-\CashierApplication\obj\Debug\CashierApplication.csproj.AssemblyReference.cache
+C:\Users\hate.401891\Source\Repos\CashierApplication-Sulit-\CashierApplication\obj\Debug\CashierApplication.frmPurchaseDiscountedItem.resources
+C:\Users\hate.401891\Source\Repos\CashierApplication-Sulit-\CashierApplication\obj\Debug\CashierApplication.Properties.Resources.resources
+C:\Users\hate.401891\Source\Repos\CashierApplication-Sulit-\CashierApplication\obj\Debug\CashierApplication.csproj.GenerateResource.cache
+C:\Users\hate.401891\Source\Repos\CashierApplication-Sulit-\CashierApplication\obj\Debug\CashierApplication.csproj.CoreCompileInputs.cache
+C:\Users\hate.401891\Source\Repos\CashierApplication-Sulit-\CashierApplication\obj\Debug\CashierApplication.exe
+C:\Users\hate.401891\Source\Repos\CashierApplication-Sulit-\CashierApplication\obj\Debug\CashierApplication.pdb
+C:\Users\arnel\Downloads\Integrative-Programming-main (1)\Integrative-Programming-main\CashierApplication\CashierApplication\bin\Debug\CashierApplication.exe.config
+C:\Users\arnel\Downloads\Integrative-Programming-main (1)\Integrative-Programming-main\CashierApplication\CashierApplication\bin\Debug\CashierApplication.exe
+C:\Users\arnel\Downloads\Integrative-Programming-main (1)\Integrative-Programming-main\CashierApplication\CashierApplication\bin\Debug\CashierApplication.pdb
+C:\Users\arnel\Downloads\Integrative-Programming-main (1)\Integrative-Programming-main\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.AssemblyReference.cache
+C:\Users\arnel\Downloads\Integrative-Programming-main (1)\Integrative-Programming-main\CashierApplication\CashierApplication\obj\Debug\CashierApplication.frmLogin.resources
+C:\Users\arnel\Downloads\Integrative-Programming-main (1)\Integrative-Programming-main\CashierApplication\CashierApplication\obj\Debug\CashierApplication.frmPurchaseDiscountedItem.resources
+C:\Users\arnel\Downloads\Integrative-Programming-main (1)\Integrative-Programming-main\CashierApplication\CashierApplication\obj\Debug\CashierApplication.Properties.Resources.resources
+C:\Users\arnel\Downloads\Integrative-Programming-main (1)\Integrative-Programming-main\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.GenerateResource.cache
+C:\Users\arnel\Downloads\Integrative-Programming-main (1)\Integrative-Programming-main\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.CoreCompileInputs.cache
+C:\Users\arnel\Downloads\Integrative-Programming-main (1)\Integrative-Programming-main\CashierApplication\CashierApplication\obj\Debug\CashierApplication.exe
+C:\Users\arnel\Downloads\Integrative-Programming-main (1)\Integrative-Programming-main\CashierApplication\CashierApplication\obj\Debug\CashierApplication.pdb

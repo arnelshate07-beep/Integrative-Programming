@@ -1,0 +1,13 @@
+C:\Users\arnel\source\repos\Payroll\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\arnel\source\repos\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\arnel\source\repos\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\arnel\source\repos\Payroll\Payroll\obj\Debug\Payroll.csproj.AssemblyReference.cache
+C:\Users\arnel\source\repos\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+C:\Users\arnel\source\repos\Payroll\Payroll\obj\Debug\Payroll.Form2.resources
+C:\Users\arnel\source\repos\Payroll\Payroll\obj\Debug\Payroll.Form3.resources
+C:\Users\arnel\source\repos\Payroll\Payroll\obj\Debug\Payroll.Form4.resources
+C:\Users\arnel\source\repos\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\arnel\source\repos\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\arnel\source\repos\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\arnel\source\repos\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\arnel\source\repos\Payroll\Payroll\obj\Debug\Payroll.pdb

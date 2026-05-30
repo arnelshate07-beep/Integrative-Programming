@@ -24,8 +24,8 @@ namespace Payroll
 
             if (user == "admin" && pass == "123456")
             {
-                Form2 frm2 = new Form2();
-                frm2.Show();
+                frmComputeSalary frmCompute = new frmComputeSalary();
+                frmCompute.Show();
                 this.Hide();
             }
             else

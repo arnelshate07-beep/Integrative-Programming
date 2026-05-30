@@ -1,0 +1,11 @@
+C:\Users\hate.401891\Downloads\Integrative-Programming-main(2)\Integrative-Programming-main\Payroll\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\hate.401891\Downloads\Integrative-Programming-main(2)\Integrative-Programming-main\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\hate.401891\Downloads\Integrative-Programming-main(2)\Integrative-Programming-main\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\hate.401891\Downloads\Integrative-Programming-main(2)\Integrative-Programming-main\Payroll\Payroll\obj\Debug\EmployeeApplication_Tp.csproj.AssemblyReference.cache
+C:\Users\hate.401891\Downloads\Integrative-Programming-main(2)\Integrative-Programming-main\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+C:\Users\hate.401891\Downloads\Integrative-Programming-main(2)\Integrative-Programming-main\Payroll\Payroll\obj\Debug\Payroll.frmComputeSalary.resources
+C:\Users\hate.401891\Downloads\Integrative-Programming-main(2)\Integrative-Programming-main\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\hate.401891\Downloads\Integrative-Programming-main(2)\Integrative-Programming-main\Payroll\Payroll\obj\Debug\EmployeeApplication_Tp.csproj.GenerateResource.cache
+C:\Users\hate.401891\Downloads\Integrative-Programming-main(2)\Integrative-Programming-main\Payroll\Payroll\obj\Debug\EmployeeApplication_Tp.csproj.CoreCompileInputs.cache
+C:\Users\hate.401891\Downloads\Integrative-Programming-main(2)\Integrative-Programming-main\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\hate.401891\Downloads\Integrative-Programming-main(2)\Integrative-Programming-main\Payroll\Payroll\obj\Debug\Payroll.pdb
